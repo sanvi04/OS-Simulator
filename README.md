@@ -10,11 +10,11 @@ A toy operating system simulator built in C++ to explore OS concepts.
 - Multithreading
 
 ## Build & Run
-mkdir build
-cd build
-cmake ..
-cmake --build .
-./OS_Simulator
+- mkdir build
+- cd build
+- cmake ..
+- cmake --build .
+- ./OS_Simulator.exe
 
 ## Author
 Sanvi Ranjan
