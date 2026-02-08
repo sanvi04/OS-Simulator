@@ -1,0 +1,3 @@
+C:/Users/sanvi/OneDrive/Desktop/OS_Simulator/build/CMakeFiles/OS_Simulator.dir
+C:/Users/sanvi/OneDrive/Desktop/OS_Simulator/build/CMakeFiles/edit_cache.dir
+C:/Users/sanvi/OneDrive/Desktop/OS_Simulator/build/CMakeFiles/rebuild_cache.dir

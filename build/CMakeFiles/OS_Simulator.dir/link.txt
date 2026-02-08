@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\OS_Simulator.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\OS_Simulator.dir/objects.a @CMakeFiles\OS_Simulator.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\OS_Simulator.dir/objects.a -Wl,--no-whole-archive -o OS_Simulator.exe -Wl,--out-implib,libOS_Simulator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OS_Simulator.dir\linkLibs.rsp
